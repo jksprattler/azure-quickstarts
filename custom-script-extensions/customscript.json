@@ -1,0 +1,4 @@
+{
+    "fileUris": ["https://raw.githubusercontent.com/jksprattler/azure-quickstarts/custom-script-extensions/master/install_web.sh"],
+    "commandToExecute": "./install_web.sh"
+  }
